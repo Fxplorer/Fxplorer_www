@@ -1,0 +1,8 @@
+<Project>
+    <PropertyGroup>
+        <RepositoryUrl>https://github.com/Fxplorer/Fxplorer_www</RepositoryUrl>
+        <FsDocsLicenseLink>https://github.com/Fxplorer/Fxplorer_www/blob/main/LICENSE</FsDocsLicenseLink>
+        <FsDocsReleaseNotesLink>https://github.com/fsprojects/FSharp.AWS.DynamoDB/blob/master/RELEASE_NOTES.md</FsDocsReleaseNotesLink>
+        <PackageProjectUrl>https://Fxplorer.github.io/Fxplorer_www</PackageProjectUrl>
+    </PropertyGroup>
+</Project>
