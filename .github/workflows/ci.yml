@@ -13,6 +13,6 @@ jobs:
     - name: Restore tools
       run: dotnet tool restore
     - name: Build
-      run: dotnet build YourSolution.sln
+      run: dotnet build Fxplorer_www.sln
     - name: Documentation
       run: dotnet fsdocs build
