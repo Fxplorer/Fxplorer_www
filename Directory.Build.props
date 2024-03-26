@@ -6,7 +6,6 @@
         <FsDocsLogoLink>https://fxplorer.net</FsDocsLogoLink>
         <FsDocsLogoSource>img/logo.png</FsDocsLogoSource>
         <FsDocsReleaseNotesLink>https://github.com/fsprojects/FSharp.AWS.DynamoDB/blob/master/RELEASE_NOTES.md</FsDocsReleaseNotesLink>
-        <PackageProjectUrl>https://fxplorer.net/</PackageProjectUrl>
         <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
         <FsDocsTheme>default</FsDocsTheme>
     </PropertyGroup>
