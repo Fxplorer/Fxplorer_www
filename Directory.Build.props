@@ -8,7 +8,7 @@
         <FsDocsReleaseNotesLink>https://github.com/fsprojects/FSharp.AWS.DynamoDB/blob/master/RELEASE_NOTES.md</FsDocsReleaseNotesLink>
         <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
         <FsDocsTheme>default</FsDocsTheme>
-        <PackageProjectUrl>/</PackageProjectUrl>
+        <PackageProjectUrl>../</PackageProjectUrl>
     </PropertyGroup>
 </Project>
 
