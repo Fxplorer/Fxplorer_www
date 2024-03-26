@@ -9,6 +9,7 @@
         <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
         <FsDocsTheme>default</FsDocsTheme>
         <PackageProjectUrl>https://fxplorer.net</PackageProjectUrl>
+        <FsDocsSourceFolder>/</FsDocsSourceFolder>
     </PropertyGroup>
 </Project>
 
