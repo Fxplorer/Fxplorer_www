@@ -3,12 +3,12 @@
         <!-- Example of a comment -->
         <RepositoryUrl>https://github.com/Fxplorer/Fxplorer_www</RepositoryUrl>
         <FsDocsLicenseLink>https://github.com/Fxplorer/Fxplorer_www/blob/main/LICENSE</FsDocsLicenseLink>
-        <FsDocsLogoLink>https://fxplorer.net</FsDocsLogoLink>
+        <FsDocsLogoLink>https://fxplorer.github.io/Fxplorer_www/</FsDocsLogoLink>
         <FsDocsLogoSource>img/logo.png</FsDocsLogoSource>
         <FsDocsReleaseNotesLink>https://github.com/fsprojects/FSharp.AWS.DynamoDB/blob/master/RELEASE_NOTES.md</FsDocsReleaseNotesLink>
         <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
         <FsDocsTheme>default</FsDocsTheme>
-        <PackageProjectUrl>https://fxplorer.net</PackageProjectUrl>
+        <PackageProjectUrl>https://fxplorer.github.io/Fxplorer_www/</PackageProjectUrl>
     </PropertyGroup>
 </Project>
 
