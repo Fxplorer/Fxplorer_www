@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout the source code
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       # Setup dotnet, please use a global.json to ensure the right SDK is used!
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
